@@ -36,7 +36,7 @@ Aside from the [official docs](https://jax.readthedocs.io/) here are some resour
 ### Videos
 
 * [Introduction to JAX](https://www.youtube.com/watch?v=0mVmRHMaOJ4&ab_channel=GoogleCloudTech) (gives a very high-level overview)
-* [JAX: Accelerated Machine Learning Research | SciPy 2020 | VanderPlas](https://www.youtube.com/watch?v=z-WSrQDXkuM&ab_channel=Enthought) (much more detailed)
+* [JAX: Accelerated Machine Learning Research | SciPy 2020 | VanderPlas](https://www.youtube.com/watch?v=z-WSrQDXkuM&ab_channel=Enthought) (many more details)
 * [NeurIPS 2020: JAX Ecosystem Meetup](https://www.youtube.com/watch?v=iDxJxIyzSiM&t=1s&ab_channel=DeepMind) (DeepMind team about the ecosystem of libs around JAX)
 * [Introduction to JAX for Machine Learning and More](https://www.youtube.com/watch?v=QkmKfzxbCLQ&ab_channel=UWaterlooDataScience) (nice, hands-on workshop)
 * [Day 1 Talks: JAX, Flax & Transformers | HuggingFace](https://www.youtube.com/watch?v=fuAyUQcVzTY&ab_channel=HuggingFace) (all 4 talks are good)
