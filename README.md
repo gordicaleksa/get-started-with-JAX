@@ -4,28 +4,48 @@ The goal of this repo is to make it easier to get started with [JAX](https://git
 
 `JAX` is becoming an increasingly popular alternative to `PyTorch` and `TensorFlow`. :sunglasses:
 
+<br/>
+<br/>
+
 <p align="center">
 <img src="readme_pics/jax_logo.png" width="300"/>
 </p>
 
+<br/>
+<br/>
+
 *Note: I'm only going to recommend content that I've personally analyzed and found useful here. 
-If you want a comprehensive list check out [awesome-jax repo](https://github.com/n2cholas/awesome-jax).*
+If you want a comprehensive list check out the [awesome-jax repo](https://github.com/n2cholas/awesome-jax).*
 
 ## My Machine Learning with JAX Tutorials
 
 Tutorial #1: From Zero to Hero
 
-Video [link](https://youtu.be/SstuvS-tVc0)
-Notebook [link](https://github.com/gordicaleksa/get-started-with-JAX/blob/main/Tutorial_1_JAX_basics.ipynb)
+[YouTube Video.](https://youtu.be/SstuvS-tVc0) <br/>
+[Accompanying Jupyter Notebook.](https://github.com/gordicaleksa/get-started-with-JAX/blob/main/Tutorial_1_JAX_basics.ipynb) <br/>
 
 <p align="left">
 <a href="https://www.youtube.com/watch?v=SstuvS-tVc0" target="_blank"><img src="https://img.youtube.com/vi/SstuvS-tVc0/0.jpg" 
 alt="JAX from zero to hero!" width="480" height="360" border="10" /></a>
 </p>
 
-## Useful content
+## Other useful content
 
+Aside from the [official docs](https://jax.readthedocs.io/) here are some resources that helped me.
 
+### Videos
+
+* [Introduction to JAX](https://www.youtube.com/watch?v=0mVmRHMaOJ4&ab_channel=GoogleCloudTech) (gives a very high-level overview)
+* [JAX: Accelerated Machine Learning Research | SciPy 2020 | VanderPlas](https://www.youtube.com/watch?v=z-WSrQDXkuM&ab_channel=Enthought) (much more detailed)
+* [NeurIPS 2020: JAX Ecosystem Meetup](https://www.youtube.com/watch?v=iDxJxIyzSiM&t=1s&ab_channel=DeepMind) (DeepMind team about the ecosystem of libs around JAX)
+* [Introduction to JAX for Machine Learning and More](https://www.youtube.com/watch?v=QkmKfzxbCLQ&ab_channel=UWaterlooDataScience) (nice, hands-on workshop)
+* [Day 1 Talks: JAX, Flax & Transformers | HuggingFace](https://www.youtube.com/watch?v=fuAyUQcVzTY&ab_channel=HuggingFace) (all 4 talks are good)
+* [Day 2 Talks: JAX, Flax & Transformers | HuggingFace](https://www.youtube.com/watch?v=__eG63ZP_5g&ab_channel=HuggingFace) (only the first 2 talks)
+
+### Blogs
+
+* [Using JAX to accelerate our research | DeepMind](https://deepmind.com/blog/article/using-jax-to-accelerate-our-research) (similar info as the NeuroIPS 2020 video)
+* [You don't know JAX | Colin Raffel](https://colinraffel.com/blog/you-don-t-know-jax.html)
 
 ## Acknowledgements
 
