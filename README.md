@@ -26,7 +26,7 @@ This way you can avoid having to setup the Python env! (This was especially conv
 Tutorial #1: From Zero to Hero
 
 [YouTube Video.](https://youtu.be/SstuvS-tVc0) <br/>
-[Accompanying Jupyter Notebook.](https://github.com/gordicaleksa/get-started-with-JAX/blob/main/Tutorial_1_JAX_basics_Colab.ipynb) <br/>
+[Accompanying Jupyter Notebook.](https://github.com/gordicaleksa/get-started-with-JAX/blob/main/Tutorial_1_JAX_Zero2Hero_Colab.ipynb) <br/>
 
 <p align="left">
 <a href="https://www.youtube.com/watch?v=SstuvS-tVc0" target="_blank"><img src="https://img.youtube.com/vi/SstuvS-tVc0/0.jpg" 
