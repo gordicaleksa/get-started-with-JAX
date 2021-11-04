@@ -23,7 +23,7 @@ If you want a comprehensive list check out the [awesome-jax repo](https://github
 (you'll see a button on top of the Jupyter file which will direct you to Colab). 
 This way you can avoid having to setup the Python env! (This was especially convenient for me since I'm on Windows which is still not supported)*
 
-Tutorial #1: From Zero to Hero
+### Tutorial #1: From Zero to Hero
 
 [YouTube Video.](https://youtu.be/SstuvS-tVc0) <br/>
 [Accompanying Jupyter Notebook.](https://github.com/gordicaleksa/get-started-with-JAX/blob/main/Tutorial_1_JAX_Zero2Hero_Colab.ipynb) <br/>
@@ -31,6 +31,16 @@ Tutorial #1: From Zero to Hero
 <p align="left">
 <a href="https://www.youtube.com/watch?v=SstuvS-tVc0" target="_blank"><img src="https://img.youtube.com/vi/SstuvS-tVc0/0.jpg" 
 alt="JAX from zero to hero!" width="480" height="360" border="10" /></a>
+</p>
+
+### Tutorial #2: From Hero to Hero Pro+
+
+[YouTube Video.](https://www.youtube.com/watch?v=CQQaifxuFcs) <br/>
+[Accompanying Jupyter Notebook.](https://github.com/gordicaleksa/get-started-with-JAX/blob/main/Tutorial_2_JAX_HeroPro%2B_Colab.ipynb) <br/>
+
+<p align="left">
+<a href="https://www.youtube.com/watch?v=CQQaifxuFcs" target="_blank"><img src="https://img.youtube.com/vi/CQQaifxuFcs/0.jpg" 
+alt="JAX - from Hero to HeroPro+!" width="480" height="360" border="10" /></a>
 </p>
 
 ## Other useful content
