@@ -23,7 +23,7 @@ If you want a comprehensive list check out the [awesome-jax repo](https://github
 (you'll see a button on top of the Jupyter file which will direct you to Colab). 
 This way you can avoid having to setup the Python env! (This was especially convenient for me since I'm on Windows which is still not supported)*
 
-Tutorial #1: From Zero to Hero
+### Tutorial #1: From Zero to Hero
 
 In this video, we start from the basics and then gradually dig into the nitty-gritty details
 of `jit`, `grad`, `vmap`, and various other idiosyncrasies of JAX.
@@ -36,7 +36,7 @@ of `jit`, `grad`, `vmap`, and various other idiosyncrasies of JAX.
 alt="JAX from zero to hero!" width="480" height="360" border="10" /></a>
 </p>
 
-Tutorial #2: From Hero to HeroPro+
+### Tutorial #2: From Hero to HeroPro+
 
 In this video, we learn all additional components needed to train ML models (such as NNs) on multiple machines!
 We'll train a simple MLP model and we'll even train an ML model on 8 TPU cores!
@@ -47,6 +47,26 @@ We'll train a simple MLP model and we'll even train an ML model on 8 TPU cores!
 <p align="left">
 <a href="https://www.youtube.com/watch?v=CQQaifxuFcs" target="_blank"><img src="https://img.youtube.com/vi/CQQaifxuFcs/0.jpg" 
 alt="JAX from Hero to HeroPro+!" width="480" height="360" border="10" /></a>
+</p>
+
+### Tutorial #3: Building a Neural Network from Scratch
+
+Watch me code a Neural Network from Scratch! :partying_face: In this 3rd video of the JAX tutorials series.
+
+In this video, I build an [MLP](https://en.wikipedia.org/wiki/Multilayer_perceptron) and train it as a classifier on MNIST
+(although it's trivial to use a more complex dataset) - all this in pure JAX (no Flax/Haiku/Optax).
+
+I then do additional analysis:
+* Visualizing MLP's learned weights
+* Visualizing embeddings of a batch of images using t-SNE
+* Finally, I analyze whether we have too many dead ReLU neurons in our network
+
+[YouTube Video (Tutorial #3)](https://www.youtube.com/watch?v=6_PqUPxRmjY) <br/>
+[Accompanying Jupyter Notebook](https://github.com/gordicaleksa/get-started-with-JAX/blob/main/Tutorial_3_JAX_Neural_Network_from_Scratch_Colab.ipynb) (Note: I'll soon refactor it but I'll link the original)<br/>
+
+<p align="left">
+<a href="https://www.youtube.com/watch?v=6_PqUPxRmjY" target="_blank"><img src="https://img.youtube.com/vi/6_PqUPxRmjY/0.jpg" 
+alt="Building a Neural Network from Scratch in pure JAX!" width="480" height="360" border="10" /></a>
 </p>
 
 ## Other useful content
