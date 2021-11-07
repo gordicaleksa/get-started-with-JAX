@@ -51,10 +51,10 @@ alt="JAX from Hero to HeroPro+!" width="480" height="360" border="10" /></a>
 
 ### Tutorial #3: Building a Neural Network from Scratch
 
-Watch me code a Neural Network from Scratch! :partying_face: In this 3rd video of the JAX tutorials series.
+Watch me code a Neural Network from scratch! :partying_face: In this 3rd video of the JAX tutorials series.
 
-In this video, I build an [MLP](https://en.wikipedia.org/wiki/Multilayer_perceptron) and train it as a classifier on MNIST
-(although it's trivial to use a more complex dataset) - all this in pure JAX (no Flax/Haiku/Optax).
+In this video, I build an [MLP](https://en.wikipedia.org/wiki/Multilayer_perceptron) and train it as a classifier on MNIST 
+using PyTorch's data loader (although it's trivial to use a more complex dataset) - all this in "pure" JAX (no Flax/Haiku/Optax).
 
 I then do additional analysis:
 * Visualizing MLP's learned weights
