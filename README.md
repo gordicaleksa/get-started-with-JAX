@@ -1,8 +1,8 @@
 ## Get started with JAX! :computer: :zap:
 
-The goal of this repo is to make it easier to get started with [JAX](https://github.com/google/jax)!
+The goal of this repo is to make it easier to get started with [JAX](https://github.com/google/jax), [Flax](https://github.com/google/flax), and [Haiku](https://github.com/deepmind/dm-haiku)!
 
-`JAX` is becoming an increasingly popular alternative to `PyTorch` and `TensorFlow`. :sunglasses:
+`JAX` ecosystem is becoming an increasingly popular alternative to `PyTorch` and `TensorFlow`. :sunglasses:
 
 <br/>
 <br/>
@@ -67,6 +67,22 @@ I then do additional analysis:
 <p align="left">
 <a href="https://www.youtube.com/watch?v=6_PqUPxRmjY" target="_blank"><img src="https://img.youtube.com/vi/6_PqUPxRmjY/0.jpg" 
 alt="Building a Neural Network from Scratch in pure JAX!" width="480" height="360" border="10" /></a>
+</p>
+
+---
+
+---
+
+### Tutorial #4: Machine Learning with Flax - From Zero to Hero
+
+In this video, I cover everything you need to know to get started with [Flax](https://github.com/google/flax)!
+
+[YouTube Video (Tutorial #4)](https://www.youtube.com/watch?v=5eUSmJvK8WA) <br/>
+[Accompanying Jupyter Notebook](https://github.com/gordicaleksa/get-started-with-JAX/blob/main/Tutorial_4_Flax_Zero2Hero_Colab.ipynb) <br/>
+
+<p align="left">
+<a href="https://www.youtube.com/watch?v=5eUSmJvK8WA" target="_blank"><img src="https://img.youtube.com/vi/5eUSmJvK8WA/0.jpg" 
+alt="Flax from Zero to Hero!" width="480" height="360" border="10" /></a>
 </p>
 
 ## Other useful content
