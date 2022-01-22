@@ -56,9 +56,9 @@ Watch me code a Neural Network from scratch! :partying_face: In this 3rd video o
 In this video, I build an [MLP](https://en.wikipedia.org/wiki/Multilayer_perceptron) and train it as a classifier on MNIST 
 using PyTorch's data loader (although it's trivial to use a more complex dataset) - all this in "pure" JAX (no Flax/Haiku/Optax).
 
-I then do additional analysis:
-* Visualizing MLP's learned weights
-* Visualizing embeddings of a batch of images using t-SNE
+I then do an additional analysis:
+* Visualize MLP's learned weights
+* Visualize embeddings of a batch of images using t-SNE
 * Finally, I analyze whether we have too many dead ReLU neurons in our network
 
 [YouTube Video (Tutorial #3)](https://www.youtube.com/watch?v=6_PqUPxRmjY) <br/>
@@ -71,11 +71,11 @@ alt="Building a Neural Network from Scratch in pure JAX!" width="480" height="36
 
 ---
 
----
-
 ### Tutorial #4: Machine Learning with Flax - From Zero to Hero
 
 In this video, I cover everything you need to know to get started with [Flax](https://github.com/google/flax)!
+
+We cover `init`, `apply`, `TrainState`, etc. and other idiosyncrasies like the usage of `mutable` and `rngs` keywords.
 
 [YouTube Video (Tutorial #4)](https://www.youtube.com/watch?v=5eUSmJvK8WA) <br/>
 [Accompanying Jupyter Notebook](https://github.com/gordicaleksa/get-started-with-JAX/blob/main/Tutorial_4_Flax_Zero2Hero_Colab.ipynb) <br/>
@@ -84,6 +84,12 @@ In this video, I cover everything you need to know to get started with [Flax](ht
 <a href="https://www.youtube.com/watch?v=5eUSmJvK8WA" target="_blank"><img src="https://img.youtube.com/vi/5eUSmJvK8WA/0.jpg" 
 alt="Flax from Zero to Hero!" width="480" height="360" border="10" /></a>
 </p>
+
+---
+
+### Tutorial #5 (coming up): Machine Learning with Haiku - From Zero to Hero
+
+todo
 
 ## Other useful content
 
@@ -96,7 +102,7 @@ Aside from the [official docs](https://jax.readthedocs.io/) here are some resour
 * [NeurIPS 2020: JAX Ecosystem Meetup](https://www.youtube.com/watch?v=iDxJxIyzSiM&t=1s&ab_channel=DeepMind) (DeepMind team about the ecosystem of libs around JAX)
 * [Introduction to JAX for Machine Learning and More](https://www.youtube.com/watch?v=QkmKfzxbCLQ&ab_channel=UWaterlooDataScience) (nice, hands-on workshop)
 * [Day 1 Talks: JAX, Flax & Transformers | HuggingFace](https://www.youtube.com/watch?v=fuAyUQcVzTY&ab_channel=HuggingFace) (all 4 talks are good)
-* [Day 2 Talks: JAX, Flax & Transformers | HuggingFace](https://www.youtube.com/watch?v=__eG63ZP_5g&ab_channel=HuggingFace) (only the first 2 talks)
+* [Day 2 Talks: JAX, Flax & Transformers | HuggingFace](https://www.youtube.com/watch?v=__eG63ZP_5g&ab_channel=HuggingFace) (only the first 2 talks are relevant)
 
 ### Blogs
 
@@ -105,7 +111,7 @@ Aside from the [official docs](https://jax.readthedocs.io/) here are some resour
 
 ## Acknowledgements
 
-* The notebooks were heavily inspired by the [official JAX docs](https://jax.readthedocs.io/).
+* The notebooks were heavily inspired by the official [JAX](https://jax.readthedocs.io/), [Flax](https://flax.readthedocs.io/en/latest/), and [Haiku](https://dm-haiku.readthedocs.io/en/latest/) docs.
 
 ## Citation
 
