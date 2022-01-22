@@ -17,6 +17,13 @@ The goal of this repo is to make it easier to get started with [JAX](https://git
 *Note: I'm only going to recommend content that I've personally analyzed and found useful here. 
 If you want a comprehensive list check out the [awesome-jax repo](https://github.com/n2cholas/awesome-jax).*
 
+## Table of Contents
+  * [ML with JAX: From Zero to Hero](#tutorial-#1:-from-zero-to-hero)
+  * [ML with JAX: From Hero to Hero Pro+](#tutorial-#2:-from-hero-to-heropro+)
+  * [ML with JAX: Coding a Neural Network from Scratch in Pure JAX]()
+  * [ML with Flax: From Zero to Hero]()
+  * ML with Haiku: From Zero to Hero (coming soon)
+
 ## My Machine Learning with JAX Tutorials
 
 *Tip on how to use notebooks: just open the notebook directly in Google Colab 
